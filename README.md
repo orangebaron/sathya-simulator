@@ -1,3 +1,0 @@
-# sathya-simulator
-
-IM GAY
