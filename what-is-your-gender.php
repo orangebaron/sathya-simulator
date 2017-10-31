@@ -4,7 +4,8 @@
 <title>wow you can order lunch im sathya edmmmmmmmmmadaka</title>
 </head>
 <body>
-<form>
+  <!-- wow this is my 10,000th line of code -->
+<form action='action="/come-out-of-the-closet.php'>
 waht fdood do yao want?!
 <input type="radio" name="gender" value="sandwich">yES,<br>
 <input type="radio" name="gender" value="pizza">boneless bizza<br>
